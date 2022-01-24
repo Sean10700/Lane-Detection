@@ -48,7 +48,7 @@ For install, please see [INSTALL.md](./INSTALL.md)
 
 ### Trained Weight Files
 
-will update the google drive url here later
+https://drive.google.com/file/d/1alGxSB3G5KvBfABrzNggIjGmlnluXQD1/view?usp=sharing
 
 
 *****
