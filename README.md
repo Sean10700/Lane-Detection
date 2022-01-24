@@ -1,4 +1,4 @@
-# Ultra-Fast-Lane-Detection
+# Lane-Detection
 
 ### This github code is basically based on https://github.com/cfzd/Ultra-Fast-Lane-Detection 
 #### (named, Ultra-Fast-Lane-Detection.)
